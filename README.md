@@ -1,3 +1,4 @@
+![Zodwa Violet Ngumbela - Developer Banner](github-banner.png)
 # 👋 Hi, I'm Zodwa Violet Ngumbela
 
 ### 💻 Aspiring Software Developer | Full-Stack Development | Digital Creator
